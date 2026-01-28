@@ -30,7 +30,8 @@ Arquitetura e Design
 O projeto segue os princípios do SOLID e a arquitetura em camadas (Controller, Service, Repository), garantindo que o código seja testável 
 e de fácil manutenção.
 
-Modelagem do Sistema (UML)(Aqui, no futuro, você pode colocar o link ou a imagem do diagrama que vamos fazer)
+Modelagem do Sistema (UML)
+![Diagrama UML do Projeto](docs/Diagrama UML.png)
 
 Como Executar o Projeto (Em breve)Clone o repositório:
 Bash

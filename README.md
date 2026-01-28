@@ -31,7 +31,7 @@ O projeto segue os princípios do SOLID e a arquitetura em camadas (Controller, 
 e de fácil manutenção.
 
 Modelagem do Sistema (UML)
-![Diagrama UML do Projeto](docs/Diagrama UML.png)
+![Diagrama UML do Projeto](docs/diagrama_uml.png)
 
 Como Executar o Projeto (Em breve)Clone o repositório:
 Bash
